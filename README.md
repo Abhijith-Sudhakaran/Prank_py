@@ -4,7 +4,8 @@ A Prank Python File Created for fun🤣. I am Just created while studying python
 Just Created a Simple Python File to Prank. This file shows Unlimited Text as output(Infinite Loop).
 Made only for Fun with basic Python 🐍.
 ### Screenshots 📌
-![Screenshot](https://github.com/Abhijith-Sudhakaran/Prank_py/images)
+![Image1](https://github.com/Abhijith-Sudhakaran/Prank_py/blob/proofs/Mainfile.jpg?raw=true)
+<br> ![Image2](https://github.com/Abhijith-Sudhakaran/Prank_py/blob/proofs/Logs.jpg?raw=true)
 ### Contact Dev 🐍
 <a href="https://t.me/Telecat_X"><img src="https://img.shields.io/badge/Text Me%20-black.svg?style=for-the-badge&logo=Telegram"></a>
 <br><a href="https://instagram.com/hypercat_ext"><img src="https://img.shields.io./badge/Follow Me-black.svg?style=for-the-badge&logo=Instagram"></a></br>
